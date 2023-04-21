@@ -107,8 +107,8 @@
 #     formatted_email = llm(prompt_with_email)
 
 #     st.write(formatted_email)
-from dotenv import load_dotenv
-load_dotenv()
+#from dotenv import load_dotenv
+#load_dotenv()
 import os 
 import openai
 import streamlit as st
